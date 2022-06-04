@@ -36,4 +36,4 @@ A roadmap, guide and resources while you learn and prepare to join the cyber com
   
 ## Threat Hunting 
 
-###*Resources will be included as well in the separate folders to give you tools, links, or further reading/explanation* 
+### *Resources will be included as well in the separate folders to give you tools, links, or further reading/explanation* 
