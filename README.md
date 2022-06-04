@@ -5,7 +5,7 @@ A roadmap, guide and resources while you learn and prepare to join the cyber com
   1. VMWare Workstation download and setup Kali Linux VM
   2. Subscription to Tryhackme.com
   3. Subscription to app.hackthebox.com
-    - instructions to follow
+    - *instructions to follow*
 
 # Course Outline
 
